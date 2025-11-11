@@ -32,7 +32,7 @@ public class BaseTest {
 //            options.addArguments("--disable-gpu");
 //            options.addArguments("--remote-allow-origins=*");
             log.info("🚀 Running in HEADLESS mode");
-            log.info("🚀 Running in HEADLESS mode356jjAA");
+            log.info("🚀 Running in HEADLESS HOTFIX");
             log.info("🚀 Running in HEADLESS mode123jjAA");
         } else {
             log.info("🧭 Running in NORMAL mode");
