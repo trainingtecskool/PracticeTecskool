@@ -20,7 +20,7 @@ public class BaseTest {
     public void setup(String headless) {
         log.info("Setting up browser...");
 
-        // Setup ChromeDriver automatically
+        // Setup ChromeDriver automatically new code
         WebDriverManager.chromedriver().setup();
 
         ChromeOptions options = new ChromeOptions(); 
